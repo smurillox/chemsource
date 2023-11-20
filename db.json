@@ -1,42 +1,46 @@
 {
-	"Afghanistan": {
-		"name": "Afghanistan",
-		"code": "AF"
-	},
-	"Albania": {
-		"name": "Albania",
-		"code": "AL"
-	},
-	"Algeria": {
-		"name": "Algeria",
-		"code": "DZ"
-	},
-	"American Samoa": {
-		"name": "American Samoa",
-		"code": "AS"
-	},
-	"AndorrA": {
-		"name": "AndorrA",
-		"code": "AD"
-	},
-	"Angola": {
-		"name": "Angola",
-		"code": "AO"
-	},
-	"Anguilla": {
-		"name": "Anguilla",
-		"code": "AI"
-	},
-	"Antarctica": {
-		"name": "Antarctica",
-		"code": "AQ"
-	},
-	"Antigua and Barbuda": {
-		"name": "Antigua and Barbuda",
-		"code": "AG"
-	},
-	"Argentina": {
-		"name": "Argentina",
-		"code": "AR"
-	}
+	"countries": [
+		{
+			"Afghanistan": {
+				"name": "Afghanistan",
+				"code": "AF"
+			},
+			"Albania": {
+				"name": "Albania",
+				"code": "AL"
+			},
+			"Algeria": {
+				"name": "Algeria",
+				"code": "DZ"
+			},
+			"American Samoa": {
+				"name": "American Samoa",
+				"code": "AS"
+			},
+			"AndorrA": {
+				"name": "AndorrA",
+				"code": "AD"
+			},
+			"Angola": {
+				"name": "Angola",
+				"code": "AO"
+			},
+			"Anguilla": {
+				"name": "Anguilla",
+				"code": "AI"
+			},
+			"Antarctica": {
+				"name": "Antarctica",
+				"code": "AQ"
+			},
+			"Antigua and Barbuda": {
+				"name": "Antigua and Barbuda",
+				"code": "AG"
+			},
+			"Argentina": {
+				"name": "Argentina",
+				"code": "AR"
+			}
+		}
+	]
 }
